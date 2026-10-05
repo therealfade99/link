@@ -26,7 +26,7 @@ we also need  maintainers to main the code base and do pull requests and all tha
 5 last but not least the main goal is for devs or who ever is trying to make a payment system to  only write 4 lines of code making it easy to use and easy to build with.
 
 ## Notes
-This README can be expanded as the project grows. As of right now i only made the initial configuration files (`api_key.json`) i will work on it more  when i can      
+This README can be expanded as the project grows. As of right now i only made  a couple of things ( still need testing )  i will work on it more  when i can      
 Pull requests are welcome Please check open issues or submit PRs, and i will review them as soon as possible.
 
 
